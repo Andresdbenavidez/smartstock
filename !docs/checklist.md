@@ -1,26 +1,26 @@
-Documentación Completa del Proyecto de Gestión de Inventarios
+# Documentación Completa del Proyecto de Gestión de Inventarios
 
 Este documento detalla toda la documentación necesaria para la entrega formal del software a un cliente, incluyendo aspectos técnicos, legales y administrativos.
 
-1. Documentación Administrativa y Legal
+## 1. Documentación Administrativa y Legal
 
-## **1.1 Propuesta Comercial**
+### **1.1 Propuesta Comercial**
 
-Resumen ejecutivo del proyecto.
+   - Resumen ejecutivo del proyecto.
 
-Objetivos y beneficios del sistema.
+   - Objetivos y beneficios del sistema.
 
-Costos y cronograma de implementación.
+   - Costos y cronograma de implementación.
 
-1.2 Contrato de Desarrollo de Software
+### 1.2 **Contrato de Desarrollo de Software**
 
-Alcance del proyecto.
+    - Alcance del proyecto.
 
-Responsabilidades del desarrollador y del cliente.
+    - Responsabilidades del desarrollador y del cliente.
 
-Tiempos de entrega y cláusulas de garantía.
+    - Tiempos de entrega y cláusulas de garantía.
 
-Propiedad intelectual y derechos de uso.
+    - Propiedad intelectual y derechos de uso.
 
 1.3 Acuerdo de Nivel de Servicio (SLA - Service Level Agreement)
 
