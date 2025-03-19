@@ -27,7 +27,8 @@ Este documento describe los casos de uso del sistema **SmartStock**, detallando 
 - **Administrador:** Gestiona usuarios, permisos, reportes y alertas.
 
 ## **Diagrama de Casos de Uso**
-*(Aquí se incluirá un diagrama representando las interacciones de los actores con el sistema.)*
+![UML - Diagrama Casos De Uso de SmartStock](https://imgur.com/a/gEtKAEA)
+
 
 ---
 
