@@ -22,13 +22,13 @@ Este documento detalla toda la documentación necesaria para la entrega formal d
 
     - Propiedad intelectual y derechos de uso.
 
-1.3 Acuerdo de Nivel de Servicio (SLA - Service Level Agreement)
+### 1.3 **Acuerdo de Nivel de Servicio (SLA - Service Level Agreement)**
 
-Tiempo de respuesta ante fallos.
+    - Tiempo de respuesta ante fallos.
 
-Mantenimiento y actualizaciones.
+    - Mantenimiento y actualizaciones.
 
-Soporte técnico y disponibilidad del sistema.
+    - Soporte técnico y disponibilidad del sistema.
 
 1.4 Acuerdo de Confidencialidad (NDA)
 
