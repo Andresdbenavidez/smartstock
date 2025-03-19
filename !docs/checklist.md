@@ -30,111 +30,111 @@ Este documento detalla toda la documentación necesaria para la entrega formal d
 
     - Soporte técnico y disponibilidad del sistema.
 
-1.4 Acuerdo de Confidencialidad (NDA)
+### 1.4 Acuerdo de Confidencialidad (NDA)
 
-Protección de la información sensible del cliente.
+    - Protección de la información sensible del cliente.
 
-Restricciones en la divulgación de datos.
+    - Restricciones en la divulgación de datos.
 
-2. Documentación Técnica del Proyecto
+## 2. Documentación Técnica del Proyecto
 
-2.1 Documento de Levantamiento de Requerimientos
+### 2.1 Documento de Levantamiento de Requerimientos
 
-Necesidades del cliente y usuarios.
+- Necesidades del cliente y usuarios.
 
-Funcionalidades esperadas.
+- Funcionalidades esperadas.
 
-2.2 Especificación de Requerimientos del Software (ERS)
+### 2.2 Especificación de Requerimientos del Software (ERS)
 
 Requerimientos funcionales y no funcionales.
 
 Restricciones técnicas.
 
-2.3 Plan de Trabajo y Cronograma
+### 2.3 Plan de Trabajo y Cronograma
 
 Planificación del desarrollo y fechas clave.
 
 Asignación de recursos.
 
-2.4 Documento de Casos de Uso
+### 2.4 Documento de Casos de Uso
 
 Diagramas UML de casos de uso.
 
 Descripción de interacciones entre usuarios y sistema.
 
-3. Diseño y Arquitectura del Sistema
+## 3. Diseño y Arquitectura del Sistema
 
-3.1 Documento de Diseño de Base de Datos
+### 3.1 Documento de Diseño de Base de Datos
 
 Modelo Entidad-Relación (MER).
 
 Tablas, relaciones y normalización.
 
-3.2 Documento de Diseño de Software
+### 3.2 Documento de Diseño de Software
 
 Arquitectura MVC.
 
 Diagramas UML: clases, secuencia y actividad.
 
-3.3 Documento de Estructura de Carpetas y Archivos
+### 3.3 Documento de Estructura de Carpetas y Archivos
 
 Organización del código y archivos.
 
-3.4 Prototipo de Interfaz (Wireframes)
+### 3.4 Prototipo de Interfaz (Wireframes)
 
 Diseño visual de las pantallas principales.
 
-4. Desarrollo del Sistema
+## 4. Desarrollo del Sistema
 
-4.1 Documento de Configuración del Entorno
+### 4.1 Documento de Configuración del Entorno
 
 Instalación de dependencias y configuración del servidor.
 
-4.2 Guía de Estándares de Codificación
+### 4.2 Guía de Estándares de Codificación
 
 Normas de escritura de código.
 
-4.3 Documentación de API (si aplica)
+### 4.3 Documentación de API (si aplica)
 
 Endpoints y métodos disponibles.
 
-5. Pruebas y Validación
+## 5. Pruebas y Validación
 
-5.1 Plan de Pruebas
+### 5.1 Plan de Pruebas
 
 Estrategia de pruebas unitarias y funcionales.
 
-5.2 Informe de Errores y Correcciones
+### 5.2 Informe de Errores y Correcciones
 
 Lista de bugs encontrados y soluciones implementadas.
 
-6. Despliegue y Documentación Final
+## 6. Despliegue y Documentación Final
 
-6.1 Manual de Instalación y Configuración
+### 6.1 Manual de Instalación y Configuración
 
 Pasos para instalar el sistema en producción.
 
-6.2 Manual de Usuario
+### 6.2 Manual de Usuario
 
 Guía para el uso del sistema con capturas de pantalla.
 
-6.3 README.md para GitHub
+### 6.3 README.md para GitHub
 
 Instrucciones rápidas de instalación y uso.
 
-6.4 Documento de Mejoras Futuras
+### 6.4 Documento de Mejoras Futuras
 
 Funcionalidades sugeridas para futuras versiones.
 
-7. Mantenimiento y Soporte
+## 7. Mantenimiento y Soporte
 
-7.1 Plan de Mantenimiento
+### 7.1 Plan de Mantenimiento
 
 Frecuencia de actualizaciones.
 
 Estrategias de respaldo de datos.
 
-7.2 Reporte de Uso y Desempeño
+### 7.2 Reporte de Uso y Desempeño
 
 Análisis de rendimiento del sistema.
 
@@ -160,8 +160,7 @@ Estadísticas de uso y posibles optimizaciones.
 │── 15_Plan_Pruebas.pdf  
 │── 16_Informe_Errores.pdf  
 │── 17_Manual_Instalacion.md  
-│── 18_Manual_Usuario.pdf  
-│── 19_README.md  
+│── 18_Manual_Usuario.pdf
 │── 20_Mejoras_Futuras.md  
 │── 21_Plan_Mantenimiento.pdf  
 │── 22_Reporte_Desempeno.pdf  
