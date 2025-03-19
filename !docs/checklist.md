@@ -4,7 +4,7 @@ Este documento detalla toda la documentación necesaria para la entrega formal d
 
 1. Documentación Administrativa y Legal
 
-1.1 Propuesta Comercial
+## **1.1 Propuesta Comercial**
 
 Resumen ejecutivo del proyecto.
 

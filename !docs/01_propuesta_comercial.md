@@ -50,9 +50,8 @@ Se ofrece una garantía de **3 meses** posterior a la entrega para corrección d
 
 ## **7. Contacto**  
 Para más información, no dudes en contactarnos:  
-📧 **Correo:** contacto@tuempresa.com  
-📞 **Teléfono:** +123 456 7890  
-
+📧 **Correo:** andresdavidbenavidez@gmail.com  
+📞 **Teléfono:** github.com/andresdbenavidez
 ---
 
-Si necesitas que agregue o modifique algo, dime y lo ajustamos. 🚀
+🚀
